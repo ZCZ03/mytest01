@@ -1,5 +1,8 @@
 package com.itheima;
 
+import javax.sql.DataSource;
+import javax.xml.crypto.Data;
+
 /**
  * @program: My_ssm_parent
  * @description:
@@ -9,4 +12,5 @@ package com.itheima;
 public class TestClass {
     private String name;
     private Integer age;
+    private Data birthday;
 }
